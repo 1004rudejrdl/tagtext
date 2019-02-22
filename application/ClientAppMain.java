@@ -1,5 +1,6 @@
 package client.application;
 
+
 import client.Controller.ClientRootController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
